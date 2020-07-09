@@ -1,0 +1,17 @@
+.div{
+
+    float:left;
+    margin-left: 5px;
+}
+.clear{
+    clear:both;
+}
+.img{
+
+    width: 140px;
+}
+.text-col{
+    color:red;
+
+
+}
